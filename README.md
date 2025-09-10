@@ -12,7 +12,7 @@ IA y Machine Learning: Me parece alucinante cómo la inteligencia artificial pue
 
 Arquitectura de Software: Me gusta pensar en cómo construir programas que sean sólidos, rápidos y que se puedan mejorar fácilmente.
 
-Mis planes en el mundo Web3 🚀
+Mis planes  en el mundo Web3 🚀
 
 ¡El ecosistema Web3 me parece el futuro! Mis metas en este espacio son:
 
