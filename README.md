@@ -1,5 +1,7 @@
 ¡Hola a todos! 👋
-Soy Mazda10, un desarrollador y estudiante. Me apasiona crear cosas nuevas, resolver problemas complejos y construir proyectos geniales mientras aprendo de todo.
+Soy Mazda10, un desarrollador y estudiante. Me apasiona crear cosas nuevas, resolver
+problemas complejos y construir proyectos geniales mientras aprendo de todo.
+
 Lo que me gusta hacer como desarrollador 💻
 
 Me divierto mucho explorando y probando cosas nuevas en el mundo del código. Por ahora, mis principales pasiones son:
@@ -26,6 +28,7 @@ Crear DApps geniales: El sueño es construir aplicaciones descentralizadas (DApp
 Si quieres dialogar o colaborar en algo, puedes encontrarme aquí:
 
 🐦 X: @mazda_BTC
+
 📸 Instagram: @mario79_perez
 
 
