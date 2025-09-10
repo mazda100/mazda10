@@ -24,6 +24,7 @@ Crear DApps geniales: El sueño es construir aplicaciones descentralizadas (DApp
 
 ¡Encuéntrame en! 📫
 Si quieres dialogar o colaborar en algo, puedes encontrarme aquí:
+
 🐦 X: @mazda_BTC
 📸 Instagram: @mario79_perez
 
